@@ -3,5 +3,5 @@
 - Currently working and learning ReactJS
 
 - How to reach me 
-- @kevinrobertsdev@gmail.com
+- Kevinrobertsdev@gmail.com
 - https://www.linkedin.com/in/kevin-roberts-2a772b185/
