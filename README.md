@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NexusHash
 - I'm a young Front-End Developer from South-Africa
-- Currently working and learning ReactJS
+- Currently working on and learning ReactJS
 
 - How to reach me 
 - Kevinrobertsdev@gmail.com
