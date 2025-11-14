@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NexusHash
-- I'm a Front-End Developer from South-Africa
+- I'm a Front-End Developer and Security Systems Engineer from South-Africa
 - Currently working with ReactJS/NextJS and SASS/Tailwind
 
 - How to reach me 
